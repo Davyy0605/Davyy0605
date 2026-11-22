@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:7B2FF7&height=200&section=header&text=Davi%20Vasconcelos&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" alt="Cabeçalho"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Python=%7C+JavaScript+%7C+PostgreSQL;Criando+aplica%C3%A7%C3%B5es+web+com+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Sistemas;Python%7C+JavaScript+%7C+PostgreSQL;Criando+aplica%C3%A7%C3%B5es+web+com+IA" alt="Typing SVG" />
 
 </div>
 
