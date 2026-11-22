@@ -10,7 +10,7 @@
 
 ## 👋 Sobre mim
 
-Estudante do **Curso Técnico em Desenvolvimento de Sistemas na ETE Ariano Vilar Suassuna (Garanhuns - PE), com conclusão em 2027.
+Estudante do **Curso Técnico em Desenvolvimento de Sistemas** na ETE Ariano Vilar Suassuna (Garanhuns - PE), com conclusão em 2027.
 Crio aplicações web completas, do back-end em Python ao front-end, gosto de aprender construindo projetos reais, tenho sede de aprendizagem em todas as áreas de TI.
 
 ---
