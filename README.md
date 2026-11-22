@@ -57,7 +57,7 @@ Crio aplicações web completas, do back-end em Python ao front-end, gosto de ap
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=B388FF)(https://www.linkedin.com/in/davi_vasconcelos-268b9733a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=B388FF)](https://www.linkedin.com/in/davi_vasconcelos-268b9733a)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D0D0D?style=for-the-badge&logo=netlify&logoColor=B388FF)](davydev.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=B388FF)](mailto:davivasconcelossilva0109@gmail.com)
 
