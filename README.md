@@ -44,8 +44,7 @@ Crio aplicações web completas, do back-end em Python ao front-end, gosto de ap
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Davyy0605&show_icons=true&theme=midgnight-purple&hide_border=true&bg_color=0D0D0D" alt="Estatísticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?/top-langs/?username=Davyy0605&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D" alt="Linguagens" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davyy0605&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D" alt="Linguagens" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davyy0605&theme=midnight-purple&hide_border=true&background=0D0D0D" alt="Sequência de commits" />
 
@@ -58,7 +57,7 @@ Crio aplicações web completas, do back-end em Python ao front-end, gosto de ap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=B388FF)](https://www.linkedin.com/in/davi_vasconcelos-268b9733a)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D0D0D?style=for-the-badge&logo=netlify&logoColor=B388FF)](davydev.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D0D0D?style=for-the-badge&logo=netlify&logoColor=B388FF)](https://davydev.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=B388FF)](mailto:davivasconcelossilva0109@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0D0D0D&height=100&section=footer" alt="Rodapé" />
