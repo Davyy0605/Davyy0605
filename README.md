@@ -19,13 +19,13 @@ Crio aplicações web completas, do back-end em Python ao front-end, gosto de ap
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=B388FF)
-![HTML5](https://img.shields.io/badge?HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=B388FF)
-![CSS3](https://img.shields.io/badge?CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=B388FF)
-![JavaScript](https://img.shields.io/badge?JavaScript-0d0d0d?style=for-the-badge&logo=javascripts&logoColor=B388FF)
-![SQL](https://img.shields.io/badge?SQL-0d0d0d?style=for-the-badge&logo=sql&logoColor=B388FF)
-![PostgreSQL](https://img.shields.io/badge?PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=B388FF)
-![Git](https://img.shields.io/badge?Git-0d0d0d?style=for-the-badge&logo=git&logoColor=B388FF)
-![Github](https://img.shields.io/badge?Github-0d0d0d?style=for-the-badge&logo=github&logoColor=B388FF)
+![HTML5](https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=B388FF)
+![CSS3](https://img.shields.io/badge/-CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=B388FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascripts&logoColor=B388FF)
+![SQL](https://img.shields.io/badge/-SQL-0d0d0d?style=for-the-badge&logo=sql&logoColor=B388FF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=B388FF)
+![Git](https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=B388FF)
+![Github](https://img.shields.io/badge/-Github-0d0d0d?style=for-the-badge&logo=github&logoColor=B388FF)
 
 </div>
 
